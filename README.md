@@ -1,75 +1,59 @@
-<h1 align="center">Hi there, I'm <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=An+Aspiring+Developer;Focused+on+Real+World+Projects" alt="Typing SVG" /></h1>
+<div align="center">
+  <h1>Saif Ali</h1>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3000&pause=1000&color=3ECDF7&center=true&vCenter=true&width=435&lines=Mobile+Developer;Automation+Engineer;Problem+Solver" alt="Typing SVG" />
+  </p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=YourUsername&style=flat-square&color=3ecdf7" alt="Profile Views" />
+    <a href="https://github.com/YourUsername?tab=followers">
+      <img src="https://img.shields.io/github/followers/YourUsername?style=social" alt="Followers" />
+    </a>
+  </p>
+</div>
+
+## About Me
+🎓 Matric student passionate about turning ideas into functional code  
+💻 Focus on mobile development, automation, and practical applications  
+🚀 Problem-solver with an eye for clean, efficient solutions  
+📱 Specializing in Android development and Python automation
+
+## Tech Stack
+```
+📱 Mobile      | Kotlin, Jetpack Compose, React Native/Expo
+🛠️ Languages   | Python, C, HTML/CSS, JavaScript
+🔧 Tools       | Git, VS Code/Cursor IDE, Android Studio
+🤖 Other       | Discord Bot Development, GUI Applications
+```
+
+## Key Projects
+- **Custom Android Keyboard** — Feature-rich with emoji support, haptic feedback, and gesture typing
+- **Discord Utility Bot** — Slash commands, system monitoring, and file management
+- **Automation Tools** — Screenshot uploader, YouTube downloader, and file organizers
+- **Music Player App** — Cross-platform mobile application (in development)
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+## Connect
+<div align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/YourUsername">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/YourDiscordID">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-🎓 Currently a student pursuing my **Matric**, building strong foundations in programming along the way.  
-⚒️ Passionate about turning ideas into code — from **custom Android keyboards** to **Discord bots** and **GUI apps**.  
-💡 A problem-solver at heart with a love for creative development and practical applications.  
-🧠 Always eager to learn, refine, and push the boundaries of what I can build.
-
----
-
-## 🛠️ My Technical Toolbox
-
-### 🌐 Frontend & UI
-- HTML
-- CSS
-- React (Learning)
-- Tailwind CSS (Basic)
-- Expo (React Native)
-
-### 🐍 Backend & Scripting
-- Python (Tkinter, edge-tts, GUI development)
-- Discord Bot Development (Nextcord)
-- YouTube Downloader Scripting
-- File Handling & Automation
-
-### 📱 Mobile Development
-- Kotlin (Jetpack Compose)
-- Android Custom Keyboard Development
-- SharedPreferences, Haptic Feedback, and Emoji Integration
-
-### 💻 Other Skills & Tools
-- C Language (for school practicals)
-- Dev-C++
-- Version Control with Git & GitHub
-- Cursor IDE / Visual Studio Code
-- Modular Programming
-- CLI Interactions and Automation Scripts
-
----
-
-## 🧩 Projects I've Built
-- 🎮 **Custom Android Keyboard**: Fully modular, supports emojis, gesture categories, persistent history, shift/caps modes, and haptics.
-- 🤖 **Nextcord Discord Bot**: Slash commands, device info listings, live keystroke tracking, and file uploads.
-- 📸 **Screenshot Uploader**: Auto-save, upload, and cleanup tool in Python.
-- 🎵 **Music Player App (Expo)**: Under development with advanced features like dynamic playlists and lyrics.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 📫 Let's Connect
-
-- 💬 Feel free to reach out for collaboration or just a coding chat!
-- 📧 Email: _your-email@example.com_
-- 💡 Motto: *"Learn by Building, Build by Learning."*
-
----
-
-<p align="center">
-  <em>“Talk is cheap. Show me the code.” – Linus Torvalds</em>
+  <i>"Simplicity is the ultimate sophistication."</i>
 </p>
