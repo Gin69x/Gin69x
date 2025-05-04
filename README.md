@@ -5,10 +5,11 @@
   </p>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=YourUsername&style=flat-square&color=3ecdf7" alt="Profile Views" />
-    <a href="https://github.com/YourUsername?tab=followers">
-      <img src="https://img.shields.io/github/followers/YourUsername?style=social" alt="Followers" />
+    <img src="https://komarev.com/ghpvc/?username=Gin69x&style=flat-square&color=3ecdf7" alt="Profile Views" />
+    <a href="https://github.com/Gin69x?tab=followers">
+      <img src="https://img.shields.io/github/followers/Gin69x?style=social" alt="Followers" />
     </a>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   </p>
 </div>
 
