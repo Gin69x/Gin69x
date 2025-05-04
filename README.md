@@ -9,7 +9,6 @@
     <a href="https://github.com/Gin69x?tab=followers">
       <img src="https://img.shields.io/github/followers/Gin69x?style=social" alt="Followers" />
     </a>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   </p>
 </div>
 
@@ -34,23 +33,23 @@
 - **Music Player App** — Cross-platform mobile application (in development)
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gin69x&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gin69x&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gin69x&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ## Connect
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:rajasknot786@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YourUsername">
+  <a href="https://github.com/Gin69x">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/YourDiscordID">
+  <a href="https://discord.com/users/gin.k">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
