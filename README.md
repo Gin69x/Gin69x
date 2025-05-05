@@ -40,7 +40,6 @@
 - **Custom Android Keyboard** — Feature-rich with emoji support, haptic feedback, and gesture typing
 - **Discord Utility Bot** — Slash commands, system monitoring, and file management
 - **Automation Tools** — Screenshot uploader, YouTube downloader, and file organizers
-- **Music Player App** — Cross-platform mobile application (in development)
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gin69x&show_icons=true&theme=tokyonight&hide_border=true" />
