@@ -21,18 +21,58 @@
 ## Tech Stack
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="30" height="30"/><br>Android</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="30" height="30"/><br>Kotlin</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/><br>Python</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30"/><br>C</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30"/><br>React</td>
+    <td align="center">
+      <a href="https://developer.android.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="30" height="30"/>
+      </a><br>Android
+    </td>
+    <td align="center">
+      <a href="https://kotlinlang.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="30" height="30"/>
+      </a><br>Kotlin
+    </td>
+    <td align="center">
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/>
+      </a><br>Python
+    </td>
+    <td align="center">
+      <a href="https://en.cppreference.com/w/c" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30"/>
+      </a><br>C
+    </td>
+    <td align="center">
+      <a href="https://reactjs.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30"/>
+      </a><br>React
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"/><br>HTML5</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30"/><br>CSS3</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/><br>JavaScript</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30"/><br>Node.js</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/><br>Java</td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"/>
+      </a><br>HTML5
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30"/>
+      </a><br>CSS3
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/>
+      </a><br>JavaScript
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
+      </a><br>Node.js
+    </td>
+    <td align="center">
+      <a href="https://www.oracle.com/java/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/>
+      </a><br>Java
+    </td>
   </tr>
 </table>
 
